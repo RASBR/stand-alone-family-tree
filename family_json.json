@@ -1,0 +1,167 @@
+[
+  {
+    "id": "20",
+    "data": {
+      "first name": "Rami",
+      "last name": "Sober",
+      "gender": "M",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": {
+      "father": "18",
+      "mother": "1013",
+      "children": ["21", "22"],
+      "spouses": ["23"]
+    }
+  },
+  {
+    "id": "21",
+    "data": {
+      "first name": "Zaid",
+      "last name": "Sober",
+      "gender": "M",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": { "father": "20", "mother": "23", "children": [], "spouses": [] }
+  },
+  {
+    "id": "22",
+    "data": {
+      "first name": "Hamza",
+      "last name": "Sober",
+      "gender": "M",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": { "father": "20", "mother": "23", "children": [], "spouses": [] }
+  },
+  {
+    "id": "23",
+    "data": {
+      "first name": "Dima",
+      "last name": "Sober",
+      "gender": "F",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": {
+      "father": "24",
+      "mother": "25",
+      "children": ["21", "22"],
+      "spouses": ["20"]
+    }
+  },
+  {
+    "id": "18",
+    "data": {
+      "first name": "Amer",
+      "last name": "Soubar",
+      "gender": "M",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "children": ["20"],
+      "spouses": ["1013"]
+    }
+  },
+  {
+    "id": "19",
+    "data": {
+      "first name": "Dana",
+      "last name": "Souber",
+      "gender": "F",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": { "father": "24", "mother": "25", "children": [], "spouses": [] }
+  },
+  {
+    "id": "24",
+    "data": {
+      "first name": "Khalil",
+      "last name": "Sober",
+      "gender": "M",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "children": ["23", "19"],
+      "spouses": ["25"]
+    }
+  },
+  {
+    "id": "25",
+    "data": {
+      "first name": "Shaila",
+      "last name": "Matoukh",
+      "gender": "F",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "children": ["23", "19"],
+      "spouses": ["24"]
+    }
+  },
+  {
+    "id": "1012",
+    "data": {
+      "first name": "Waleed",
+      "last name": "Ramadan",
+      "gender": "Male",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": { "father": "", "mother": "1016", "children": [], "spouses": [] }
+  },
+  {
+    "id": "1013",
+    "data": {
+      "first name": "Najah",
+      "last name": "Hamzouq",
+      "gender": "Female",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": {
+      "father": "",
+      "mother": "",
+      "children": ["20"],
+      "spouses": ["18"]
+    }
+  },
+  {
+    "id": "1014",
+    "data": {
+      "first name": "Wael",
+      "last name": "Ramadan",
+      "gender": "Male",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": { "father": "", "mother": "1016", "children": [], "spouses": [] }
+  },
+  {
+    "id": "1015",
+    "data": {
+      "first name": "Liath",
+      "last name": "Ramadan",
+      "gender": "Male",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": { "father": "", "mother": "1016", "children": [], "spouses": [] }
+  },
+  {
+    "id": "1016",
+    "data": {
+      "first name": "Asyat",
+      "last name": "Hamzouq",
+      "gender": "Female",
+      "avatar": "https://static8.depositphotos.com/1009634/988/v/950/depositphotos_9883921-stock-illustration-no-user-profile-picture.jpg"
+    },
+    "rels": {
+      "father": "",
+      "mother": "1005",
+      "children": ["1012", "1014", "1015"],
+      "spouses": [""]
+    }
+  }
+]
