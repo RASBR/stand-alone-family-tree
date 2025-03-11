@@ -15,7 +15,8 @@ A stand-alone web page to display family tree using EXCEL, JSON, and an HTML pag
 
 ### JSON Formatter:
 
-Use [![img](https://jsonformatter.org/img/logo.webp =32x)](https://jsonformatter.org/){target=\_blank} to view JSON in a user friendly format AND CHECK FOR ERRORS.
+[![img](https://jsonformatter.org/img/logo.webp)](https://jsonformatter.org/){target=\_blank}
+Use to view JSON in a user friendly format and check for errors.
 
 ### Project Folder Content:
 
@@ -25,4 +26,4 @@ Use [![img](https://jsonformatter.org/img/logo.webp =32x)](https://jsonformatter
 
 # Attribution
 
-The family tree is being represented using the [Family-Chart](https://raw.githubusercontent.com/donatso/family-chart/HEAD/examples/logo.svg) npm package created by ![img](https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lMzE2N2EwZDU3NWY0MzMzYmIxNzlmYmRhNWEwZjIyZj9zaXplPTEwMCZkZWZhdWx0PXJldHJvIn0.Kn8I9ctK855enR9gwp1wq5mwCUEyTHo8_UC114X64tw =32x) Donatso
+The family tree is being represented using the [Family-Chart](https://raw.githubusercontent.com/donatso/family-chart/HEAD/examples/logo.svg) npm package created by `Donatso`.
