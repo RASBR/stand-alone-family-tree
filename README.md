@@ -15,8 +15,11 @@ A stand-alone web page to display family tree using EXCEL, JSON, and an HTML pag
 
 ### JSON Formatter:
 
-[![img](https://jsonformatter.org/img/logo.webp)](https://jsonformatter.org/){target=\_blank}
-Use to view JSON in a user friendly format and check for errors.
+<div style="text-align: start;">
+  <a href="https://jsonformatter.org/" style="margin-right: 20px;">
+    <img src="https://jsonformatter.org/img/logo.webp" alt="img" height="48"></a>
+  <p>Use to view JSON in a user friendly format and check for errors.</p>
+</div>
 
 ### Project Folder Content:
 
