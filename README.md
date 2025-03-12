@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/donatso/family-chart/HEAD/examples/logo.svg" alt="img" height="64">
+
 # Stand Alone Family Tree
 
 A stand-alone web page to display family tree using EXCEL, JSON, and an HTML page.
@@ -15,11 +17,7 @@ A stand-alone web page to display family tree using EXCEL, JSON, and an HTML pag
 
 ### JSON Formatter:
 
-<div style="text-align: start;">
-  <a href="https://jsonformatter.org/" style="margin-right: 20px;">
-    <img src="https://jsonformatter.org/img/logo.webp" alt="img" height="48"></a>
-  <p>Use to view JSON in a user friendly format and check for errors.</p>
-</div>
+Use [JSON Formatter](https://jsonformatter.org/) to view JSON in a user friendly format and check for errors.
 
 ### Project Folder Content:
 
