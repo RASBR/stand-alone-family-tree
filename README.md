@@ -6,6 +6,8 @@ A stand-alone web page to display family tree using EXCEL, JSON, and an HTML pag
 
 ## Instructions
 
+1. Download the .zip file from [Code](https://github.com/RASBR/stand-alone-family-tree/archive/refs/heads/main.zip) dropdown.
+1. Extract the zip file to a folder on your machine.
 1. Open the Excel workbook family_tree.xlsx and go to the `Original_data` sheet.
 1. In the table in sheet `Original_data` Enter your data as per the sample data in the table.
 1. On `Data` menu press `Refresh All`.
